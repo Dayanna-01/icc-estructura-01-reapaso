@@ -6,14 +6,14 @@ public class App {
     public static void main(String[] args) throws Exception {
         Persona[] personas = new Persona[] {
             new Persona("Juan", 25),
-            new Persona("Ana", 30),
-            new Persona("Luis", 22),
-            new Persona("María", 28),
-            new Persona("Carlos", 35),
-            new Persona("Laura", 27),
-            new Persona("Pedro", 24),
-            new Persona("Sofía", 29),
-            new Persona("Diego", 31),
+            new Persona("Maria", 30),
+            new Persona("Carlos", 22),
+            new Persona("Ana", 28),
+            new Persona("Luis", 35),
+            new Persona("Sofia", 27),
+            new Persona("Miguel", 40),
+            new Persona("Laura", 32),
+            new Persona("Pedro", 29),
             new Persona("Elena", 26)
         };
 
